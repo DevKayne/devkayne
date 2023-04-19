@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kayne</h1>
 <h3 align="center">A FiveM Developer from Australia</h3>
 
-- 🔭 I’m wanting working on **QBCore**
+- 🔭 I’m wanting to working on **improving my Programming**
 
-- 🌱 I’m currently learning **LUA**
+- 🌱 I’m currently learning **LUA for FiveM**
 
-- 👯 I’m looking to collaborate on **LUA**
+- 👯 I’m looking to collaborate on **LUA Scripts**
 
-- 🤝 I’m looking for help with **Creating my own Development Team**
+- 🤝 I’m looking for help with **Understanding Advanced LUA Concepts**
 
 - 👨‍💻 All of my projects are available at [github.com/devkayne](github.com/devkayne)
 
