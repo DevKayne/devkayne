@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Kayne</h1>
-<h3 align="center">A FiveM Developer from Australia</h3>
+<h3 align="center">A Developer from Australia</h3>
 
 - 🔭 I’m wanting to working on **improving my Programming**
 
-- 🌱 I’m currently learning **LUA for FiveM**
+- 🌱 I’m currently learning **Javascript Frameworks**
 
-- 👯 I’m looking to collaborate on **LUA Scripts**
+- 👯 I’m looking to collaborate on **React, Vue and Angular Projects**
 
-- 🤝 I’m looking for help with **Understanding Advanced LUA Concepts**
+- 🤝 I’m looking for help with **Understanding Typescript and Javascript Frameworks**
 
 - 👨‍💻 All of my projects are available at [github.com/devkayne](github.com/devkayne)
 
 - 💬 Ask me about **Australia**
 
-- 📫 How to reach me **Kayne#8814 on Discord**
+- 📫 How to reach me **devkayne on Discord**
 
 - ⚡ Fun fact **I ride Dirtbikes**
 
